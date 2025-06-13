@@ -16,11 +16,7 @@ A Discord bot for tracking and summarizing your Stake.com deposits, withdrawals,
 - A Discord bot token ([How to create a bot](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot))
 
 ### Installation
-1. **Clone the repository:**
-   ```sh
-   git clone <your-repo-url>
-   cd STAKE STATS BOT
-   ```
+1. **Download the repository.**
 2. **Install dependencies:**
    ```sh
    npm install
